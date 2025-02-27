@@ -1,13 +1,13 @@
-1. Gandu
-a) What man
-b) You man
-c) yes man
-d) shut up
-Answer: d
+1. Which country sent the world's first dog to space
+a) USSR
+b) USA
+c) France
+d) China
+Answer: a
 
-2. Loafer
-a) What man
-b) You man
-c) yes man
-d) shut up
-Answer: b
+2. What is water molecular formulae
+a) HO
+b) HO2
+c) H2O
+d) H2O2
+Answer: c
